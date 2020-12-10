@@ -1,0 +1,146 @@
+	<div class="product-card">
+		<div class="badge">Hot</div>
+		<div class="product-tumb">
+			<img src="data:image/jpeg;base64,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" alt="">
+		</div>
+		<div class="product-details">
+			<span class="product-catagory">Unisex,hoodie</span>
+			<h4><a href=""></a>GitHub Hoodie</h4>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, possimus nostrum!</p>
+			<div class="product-bottom-details">
+				<div class="product-price"><small>$55</small>$25</div>
+				<div class="product-links">
+				</div>
+			</div>
+		</div>
+	</div>
+  
+  CSS:
+  
+  @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
+*
+{
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body
+{
+    font-family: 'Roboto', sans-serif;
+}
+a
+{
+    text-decoration: none;
+}
+.product-card {
+    width: 380px;
+    position: relative;
+    box-shadow: 0 2px 7px #dfdfdf;
+    margin: 50px auto;
+    background: #f0f0f0;
+}
+
+.badge {
+    position: absolute;
+    left: 0;
+    top: 20px;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    background: red;
+    color: #fff;
+    padding: 3px 10px;
+}
+
+.product-tumb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    padding: 50px;
+    background: #ffffff;
+}
+
+.product-tumb img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.product-details {
+    padding: 30px;
+}
+
+.product-catagory {
+    display: block;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #999;
+    margin-bottom: 18px;
+}
+
+.product-details h4 a {
+    font-weight: 500;
+    display: block;
+    margin-bottom: 18px;
+    text-transform: uppercase;
+    color: #363636;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.product-details h4 a:hover {
+    color: #fbb72c;
+}
+
+.product-details p {
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 18px;
+    color: #444857;
+}
+
+.product-bottom-details {
+    overflow: hidden;
+    border-top: 1px solid #eee;
+    padding-top: 20px;
+}
+
+.product-bottom-details div {
+    float: left;
+    width: 50%;
+}
+
+.product-price {
+    font-size: 18px;
+    color: #008000;
+    font-weight: 600;
+}
+
+.product-price small {
+    font-size: 80%;
+    font-weight: 400;
+    text-decoration: line-through;
+    display: inline-block;
+    margin-right: 5px;
+    color: #ff0000;
+}
+
+.product-links {
+    text-align: right;
+}
+
+.product-links a {
+    display: inline-block;
+    margin-left: 5px;
+    color: #e1e1e1;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+.product-links a:hover {
+    color: #fbb72c;
+}
